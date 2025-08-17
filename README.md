@@ -139,7 +139,7 @@ jupyter nbextension enable --py widgetsnbextension
 
 * If `restaurant_reviews.csv` exists → system loads it (`date, text, sentiment`).
 * Otherwise → synthetic dataset (30 days, probabilistic sentiment distribution) is auto-generated.
-* You can replace it with a **Kaggle dataset** (ensure columns & timestamps are compatible).
+* You can replace it with a **[Kaggle dataset](https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews)** (ensure columns & timestamps are compatible).
 
 ---
 
